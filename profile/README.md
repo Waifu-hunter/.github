@@ -1,1 +1,1 @@
-<img src="./original.png">
+<img src="https://github.com/Waifu-hunter/.github/blob/main/profile/original.png?raw=true">
